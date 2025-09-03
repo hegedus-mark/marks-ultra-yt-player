@@ -1,0 +1,9 @@
+{
+  "id": "marks-ultra-yt-player",
+  "title": "marks-ultra-yt-player",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  }
+}
